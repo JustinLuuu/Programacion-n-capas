@@ -1,0 +1,6 @@
+C:\Users\justi\source\repos\Programacion n Capas\Guardando Productos\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\justi\source\repos\Programacion n Capas\Guardando Productos\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\justi\source\repos\Programacion n Capas\Guardando Productos\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\Programacion n Capas\Guardando Productos\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\Programacion n Capas\Guardando Productos\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\justi\source\repos\Programacion n Capas\Guardando Productos\CapaDatos\obj\Debug\CapaDatos.pdb
